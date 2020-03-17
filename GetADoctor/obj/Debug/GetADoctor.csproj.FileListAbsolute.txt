@@ -1,0 +1,13 @@
+C:\Users\Nnamdi\Source\Repos\GetADoctor\GetADoctor\bin\Debug\GetADoctor.exe.config
+C:\Users\Nnamdi\Source\Repos\GetADoctor\GetADoctor\bin\Debug\GetADoctor.exe
+C:\Users\Nnamdi\Source\Repos\GetADoctor\GetADoctor\bin\Debug\GetADoctor.pdb
+C:\Users\Nnamdi\Source\Repos\GetADoctor\GetADoctor\obj\Debug\GetADoctor.csprojAssemblyReference.cache
+C:\Users\Nnamdi\Source\Repos\GetADoctor\GetADoctor\obj\Debug\GetADoctor.Form1.resources
+C:\Users\Nnamdi\Source\Repos\GetADoctor\GetADoctor\obj\Debug\GetADoctor.Form2.resources
+C:\Users\Nnamdi\Source\Repos\GetADoctor\GetADoctor\obj\Debug\GetADoctor.Properties.Resources.resources
+C:\Users\Nnamdi\Source\Repos\GetADoctor\GetADoctor\obj\Debug\GetADoctor.csproj.GenerateResource.cache
+C:\Users\Nnamdi\Source\Repos\GetADoctor\GetADoctor\obj\Debug\GetADoctor.exe
+C:\Users\Nnamdi\Source\Repos\GetADoctor\GetADoctor\obj\Debug\GetADoctor.pdb
+C:\Users\Nnamdi\Source\Repos\GetADoctor\GetADoctor\obj\Debug\GetADoctor.Form3.resources
+C:\Users\Nnamdi\Source\Repos\GetADoctor\GetADoctor\obj\Debug\GetADoctor.AppointmentPage.resources
+C:\Users\Nnamdi\Source\Repos\GetADoctor\GetADoctor\obj\Debug\GetADoctor.Form5.resources
